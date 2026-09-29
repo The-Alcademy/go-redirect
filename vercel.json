@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/give", "destination": "https://www.realife.org.uk/", "permanent": false },
+    { "source": "/(.*)", "destination": "https://www.theartyst.co.uk/", "permanent": false }
+  ]
+}
